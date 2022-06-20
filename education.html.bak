@@ -14,7 +14,7 @@
     <!-- NAVIGATION BAR -->
     <div class="nav-wrapper">
       <div class="brand">
-        <a href="index.html"><h1>Rukiye Tuna</h1></a>
+        <a href="index.html"><h1>Burak A. Tuna</h1></a>
       </div>
       
       <div class="nav-link-wrapper active-nav-link">
@@ -94,7 +94,7 @@
     
     <!--FOOTER-->
     <div class="footer">
-	  <span style="font-size: 1.25em;">&#169;</span> RukiyeTuna2022
+	  <span style="font-size: 1.25em;">&#169;</span> BurakTuna2022
     </div>
   </div>
 </body>
